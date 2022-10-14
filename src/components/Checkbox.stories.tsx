@@ -5,9 +5,7 @@ import { Text } from './Text'
 export default {
     title: 'Components/Checkbox',
     component: Checkbox,
-    args: {
-        children: 'Create account'
-    },
+    args: {},
     argsTypes: {},
     decorators: [
         (Story) => {
